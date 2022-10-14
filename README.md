@@ -1,3 +1,4 @@
+![Calculator-GIF](https://user-images.githubusercontent.com/101665808/195920734-36743eaa-9b37-419e-bc22-c5a6dfe1b1ea.gif)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
