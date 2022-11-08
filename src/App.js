@@ -4,7 +4,7 @@ import Pantalla from './componentes/Pantalla';
 import BotonClear from './componentes/BotonClear';
 import { useState } from 'react';
 import { evaluate } from 'mathjs';
-import Logo from "./componentes/Logo.js"
+// import Logo from "./componentes/Logo.js"
 
 function App() {
 
@@ -25,7 +25,7 @@ function App() {
   return (
     <div className='App'>
 
-      <Logo />
+      {/* <Logo /> */}
      
       <div className='contenedor-calculadora'>
         <Pantalla input={input}/>
